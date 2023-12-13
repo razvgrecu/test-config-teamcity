@@ -8,9 +8,11 @@
         <param name="buildSettings" value="ALWAYS_USE_CURRENT" />
         <param name="credentialsStorageType" value="credentialsJSON" />
         <param name="enabled" value="true" />
+        <param name="format" value="kotlin" />
         <param name="ignoreChangesInDependenciesAndVcsSettings" value="false" />
         <param name="rootId" value="MicronautOpenapi_Configuration" />
         <param name="showChanges" value="false" />
+        <param name="useRelativeIds" value="true" />
       </parameters>
     </extension>
   </project-extensions>
